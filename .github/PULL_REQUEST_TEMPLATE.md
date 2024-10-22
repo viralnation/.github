@@ -18,6 +18,7 @@
 - [ ] provided a descriptive overview
 - [ ] listed the tests that were performed by the developer
 - [ ] linked to a JIRA ticket _(If Applicable)_
+- [ ] verify that DB schema migration version number is correct _(If Applicable)_
 - [ ] commits follow the [Conventional Commits][conventional-commits] format
 
 [conventional-commits]: https://www.conventionalcommits.org/en/v1.0.0/
